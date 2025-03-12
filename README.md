@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Radulesu Alexandru-Gabriel</h1>
+<h1 align="left">Hey 👋, I'm Gabriel</h1>
 
 ###
 
